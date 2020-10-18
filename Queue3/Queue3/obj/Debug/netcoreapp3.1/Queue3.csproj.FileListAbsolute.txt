@@ -1,0 +1,13 @@
+C:\Users\Антон\source\repos\Queue3\Queue3\bin\Debug\netcoreapp3.1\Queue3.exe
+C:\Users\Антон\source\repos\Queue3\Queue3\bin\Debug\netcoreapp3.1\Queue3.deps.json
+C:\Users\Антон\source\repos\Queue3\Queue3\bin\Debug\netcoreapp3.1\Queue3.runtimeconfig.json
+C:\Users\Антон\source\repos\Queue3\Queue3\bin\Debug\netcoreapp3.1\Queue3.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\Queue3\Queue3\bin\Debug\netcoreapp3.1\Queue3.dll
+C:\Users\Антон\source\repos\Queue3\Queue3\bin\Debug\netcoreapp3.1\Queue3.pdb
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.AssemblyInfo.cs
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.dll
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.pdb
+C:\Users\Антон\source\repos\Queue3\Queue3\obj\Debug\netcoreapp3.1\Queue3.genruntimeconfig.cache
