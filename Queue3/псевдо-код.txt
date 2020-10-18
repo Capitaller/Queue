@@ -1,0 +1,16 @@
+    class Queue
+        LinkedList<int> Que 
+         add(numb)
+            Que.AddFirst(numb)
+         delete()
+            Que.RemoveFirst()
+
+    class Program         
+            array        
+            Queue one 
+            for (i = 0; i < array.Length; i++)
+                one.add(array[i])        
+            for (i = 0; i < array.Length; i++)
+                one.delete() 
+        
+    
